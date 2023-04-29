@@ -11,6 +11,7 @@
 ## Prometheus
 
 - [pint](https://github.com/cloudflare/pint)
+- [Prom CLI](https://github.com/nalbury/promql-cli)
 
 ## Service Level Objectives
 
