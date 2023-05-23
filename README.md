@@ -12,6 +12,7 @@
 
 - [pint](https://github.com/cloudflare/pint)
 - [Prom CLI](https://github.com/nalbury/promql-cli)
+- [High Cardinality Analyzer](https://github.com/chronosphereio/high-cardinality-analyzer)
 
 ### Exporters
 
